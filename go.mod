@@ -1,6 +1,6 @@
 module github.com/formalco/pg_query_go/v4
 
-go 1.19
+go 1.23
 
 require (
 	github.com/golang/protobuf v1.5.0
